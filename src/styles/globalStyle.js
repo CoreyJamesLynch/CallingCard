@@ -2,9 +2,10 @@ import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyle = createGlobalStyle`
   body {
-    padding: 0;
-    margin: 0;
     background-color: orange;
+    font-family: 'Fraunces', serif;
+    margin: 0;
+    padding: 0;
   }
 `;
 
