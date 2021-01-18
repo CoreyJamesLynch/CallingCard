@@ -29,6 +29,7 @@ const ProfilePic = styled.img`
 const ProfileHeader = styled.p`
   font-size: 80px;
   font-weight: 300;
+  text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.4);
   margin: 0;
 `;
 
@@ -36,6 +37,7 @@ const ProfileSubHeader = styled.p`
   font-size: 30px;
   font-weight: 300;
   color: rgb(252, 186, 71);
+  text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.4);
 `;
 
 export default ProfileWrapper;
