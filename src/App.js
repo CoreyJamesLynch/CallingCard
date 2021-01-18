@@ -1,13 +1,14 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 
-import GlobalStyle from './styles/globalStyle';
+import GlobalStyle from './styles/globalStyles';
+import MainComponent from './components/MainComponent';
 
 function App() {
   return (
     <>
       <GlobalStyle />
-      <h1>Hello Corey</h1>
+      <MainComponent />
     </>
   );
 }
