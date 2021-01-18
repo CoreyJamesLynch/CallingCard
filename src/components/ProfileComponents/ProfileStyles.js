@@ -17,5 +17,14 @@ const Profile = styled.div`
   min-height: 100vh;
   padding: 30px 40px;
 `;
+
+const ProfilePic = styled.img`
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  box-shadow: 0 0 5px #000000;
+  margin: auto;
+`;
+
 export default ProfileWrapper;
-export { Profile };
+export { Profile, ProfilePic };

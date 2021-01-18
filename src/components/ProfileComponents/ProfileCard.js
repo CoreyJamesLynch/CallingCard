@@ -1,12 +1,13 @@
 import React from 'react';
-
-import ProfileWrapper, { Profile } from './ProfileStyles';
+import ProfileWrapper, { Profile, ProfilePic } from './ProfileStyles';
+import Me from '../../assets/me.jpeg';
 
 const ProfileCard = () => {
   return (
     <ProfileWrapper>
       <Profile>
-        <h1>This is Corey</h1>
+        <ProfilePic src={Me} alt="Corey distracted" />
+        <h1>Corey Lynch</h1>
       </Profile>
     </ProfileWrapper>
   );
