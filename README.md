@@ -10,6 +10,12 @@
 
 - Phase 5 add icons to bar which act as links
 
-- Phase 6 Test
+- Phase 6 Review styles
+  - Change background pic to beach
+  - Change text to vapor/retro/synth colors with glow
+  - Change text font
+  - Going for HiFi Ascetic
 
-- Phase 7 Publish
+- Phase 7 Test
+
+- Phase 8 Publish
