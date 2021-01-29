@@ -3,7 +3,7 @@ import Bar, {
   LinkedInIcon,
   GithubIcon,
   InstagramIcon,
-  FacebookIcon,
+  MediumSquareIcon,
 } from './IconStyles';
 
 const IconBar = () => {
@@ -20,7 +20,7 @@ const IconBar = () => {
           <InstagramIcon />
         </a>
         <a href="https://github.com/CoreyJamesLynch">
-          <FacebookIcon />
+          <MediumSquareIcon />
         </a>
       </Bar>
     </>

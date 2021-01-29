@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-import treeSky from '../assets/treeSky.jpeg';
+import six from '../assets/six.jpg';
 
 const GlobalStyle = createGlobalStyle`
 * {
@@ -7,9 +7,13 @@ const GlobalStyle = createGlobalStyle`
 }
 
 body {
-  background-image: url(${treeSky});
+  background: url(${six}) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   border-radius: border-box;
-  font-family: 'Fraunces', serif;
+  font-family: 'Dosis', sans-serif;
   margin: 0;
   padding: 0;
 }

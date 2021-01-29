@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { Linkedin } from '@styled-icons/bootstrap/Linkedin';
 import { Github } from '@styled-icons/bootstrap/Github';
 import { Instagram } from '@styled-icons/bootstrap/Instagram';
-import { Facebook } from '@styled-icons/entypo-social/';
+import { MediumSquare } from '@styled-icons/boxicons-logos/MediumSquare';
 
 const Bar = styled.div`
   display: flex;
@@ -12,33 +12,40 @@ const Bar = styled.div`
   height: 60px;
   margin: 55px 0 0 0;
   border-radius: 25px;
-  background: rgb(46, 54, 48);
-  box-shadow: 0 0 10px #000000;
 `;
 
 const LinkedInIcon = styled(Linkedin)`
-  color: Green;
+  color: #0072b1;
   height: 55px;
   width: 55px;
 `;
 
 const GithubIcon = styled(Github)`
-  color: Green;
+  color: #fff;
   height: 55px;
   width: 55px;
 `;
 
 const InstagramIcon = styled(Instagram)`
-  color: Green;
+  color: rgb(46, 54, 48);
+  border-radius: 25px;
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
   height: 55px;
   width: 55px;
 `;
 
-const FacebookIcon = styled(Facebook)`
-  color: Green;
+const MediumSquareIcon = styled(MediumSquare)`
+  color: #fff;
   height: 55px;
   width: 55px;
 `;
 
 export default Bar;
-export { LinkedInIcon, GithubIcon, InstagramIcon, FacebookIcon };
+export { LinkedInIcon, GithubIcon, InstagramIcon, MediumSquareIcon };

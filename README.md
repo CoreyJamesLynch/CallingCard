@@ -15,6 +15,7 @@
   - Change text to vapor/retro/synth colors with glow
   - Change text font
   - Going for HiFi Ascetic
+  - Change Facebook Icon to Medium (it links to Twitter right now)
 
 - Phase 7 Test
 
