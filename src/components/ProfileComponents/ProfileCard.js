@@ -1,5 +1,5 @@
 import React from 'react';
-import Me from '../../assets/me.jpeg';
+import me from '../../assets/me.jpeg';
 import ProfileWrapper, {
   Profile,
   ProfilePic,
@@ -13,7 +13,7 @@ const ProfileCard = () => {
   return (
     <ProfileWrapper>
       <Profile>
-        <ProfilePic src={Me} alt="Corey distracted" />
+        <ProfilePic src={me} alt="Corey distracted" />
         <ProfileHeader>Corey Lynch</ProfileHeader>
         <ProfileSubHeader>Full-stack Developer from New York</ProfileSubHeader>
         <IconBar />

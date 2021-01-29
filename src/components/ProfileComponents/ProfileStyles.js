@@ -12,9 +12,9 @@ const Profile = styled.div`
   box-shadow: inset 0 0 10px #000000;
   border-radius: 5px;
   text-align: center;
-  color: rgb(12, 199, 89);
+  color: #f9c440;
   width: 50vw;
-  min-height: 90vh;
+  min-height: 75vh;
   padding: 30px 40px;
 `;
 
@@ -36,7 +36,7 @@ const ProfileHeader = styled.p`
 const ProfileSubHeader = styled.p`
   font-size: 30px;
   font-weight: 300;
-  color: rgb(252, 186, 71);
+  color: #f79a9a;
   text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.4);
 `;
 
