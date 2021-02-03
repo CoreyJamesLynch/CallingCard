@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-import six from '../assets/six.jpg';
+import six from '../assets/six_med.jpg';
 
 const GlobalStyle = createGlobalStyle`
 * {
