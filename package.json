@@ -1,6 +1,6 @@
 {
   "homepage": "http://CoreyJamesLynch.github.io/PersonalPortfolio",
-  "name": "PersonalPortfolio",
+  "name": "personal_portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
