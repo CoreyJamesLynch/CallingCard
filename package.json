@@ -1,6 +1,6 @@
 {
-  "homepage": "http://CoreyJamesLynch.github.io/CallingCard",
-  "name": "calling_card",
+  "homepage": "http://CoreyJamesLynch.github.io/PersonalPortfolio",
+  "name": "PersonalPortfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
