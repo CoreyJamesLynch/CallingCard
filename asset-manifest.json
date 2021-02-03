@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/CallingCard/static/js/main.e2aca066.chunk.js",
+    "main.js.map": "/CallingCard/static/js/main.e2aca066.chunk.js.map",
+    "runtime-main.js": "/CallingCard/static/js/runtime-main.f2497b74.js",
+    "runtime-main.js.map": "/CallingCard/static/js/runtime-main.f2497b74.js.map",
+    "static/js/2.90986841.chunk.js": "/CallingCard/static/js/2.90986841.chunk.js",
+    "static/js/2.90986841.chunk.js.map": "/CallingCard/static/js/2.90986841.chunk.js.map",
+    "index.html": "/CallingCard/index.html",
+    "static/js/2.90986841.chunk.js.LICENSE.txt": "/CallingCard/static/js/2.90986841.chunk.js.LICENSE.txt",
+    "static/media/me.9850a7e1.jpeg": "/CallingCard/static/media/me.9850a7e1.jpeg",
+    "static/media/six.2404700d.jpg": "/CallingCard/static/media/six.2404700d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2497b74.js",
+    "static/js/2.90986841.chunk.js",
+    "static/js/main.e2aca066.chunk.js"
+  ]
+}
