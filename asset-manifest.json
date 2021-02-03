@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/CallingCard/static/js/main.e2aca066.chunk.js",
-    "main.js.map": "/CallingCard/static/js/main.e2aca066.chunk.js.map",
+    "main.js": "/CallingCard/static/js/main.a2528c17.chunk.js",
+    "main.js.map": "/CallingCard/static/js/main.a2528c17.chunk.js.map",
     "runtime-main.js": "/CallingCard/static/js/runtime-main.f2497b74.js",
     "runtime-main.js.map": "/CallingCard/static/js/runtime-main.f2497b74.js.map",
     "static/js/2.90986841.chunk.js": "/CallingCard/static/js/2.90986841.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.f2497b74.js",
     "static/js/2.90986841.chunk.js",
-    "static/js/main.e2aca066.chunk.js"
+    "static/js/main.a2528c17.chunk.js"
   ]
 }
