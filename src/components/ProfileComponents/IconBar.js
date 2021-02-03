@@ -13,13 +13,13 @@ const IconBar = () => {
         <a href="https://www.linkedin.com/in/corey-james-lynch/">
           <LinkedInIcon />
         </a>
-        <a href="https://www.instagram.com/bearinawolfpack/">
+        <a href="https://github.com/CoreyJamesLynch">
           <GithubIcon />
         </a>
-        <a href="https://twitter.com/CoreyJamesLynch">
+        <a href="https://www.instagram.com/bearinawolfpack/">
           <InstagramIcon />
         </a>
-        <a href="https://github.com/CoreyJamesLynch">
+        <a href="https://coreyjameslynch.medium.com/">
           <MediumSquareIcon />
         </a>
       </Bar>
